@@ -1,0 +1,86 @@
+body {
+	background: url(background1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#logindesign {
+	position: absolute;
+	margin-left: 80em;
+	margin-top: 13em;
+	background-color: lightcyan;
+	padding-top: 4em;
+	padding-bottom: 4em;
+	padding-left: 4em;
+	padding-right: 4em;
+	border-radius: 20px;
+}
+
+#logintxt {
+	font-size: 250%;
+	font-family: Impact;
+}
+
+#userNAME {
+	font-family: Impact;
+	font-size: 100%;
+}
+
+#defaulttext {
+	font-family: Impact;
+	font-size: 100%;
+}
+
+#back_href {
+	font-family: 'Times New Roman';
+	font-size: 90%;
+	text-decoration: none;
+	color: black;
+	margin-left:5.2em;
+}
+
+#back_href2 {
+	font-family: 'Times New Roman';
+	font-size: 90%;
+	text-decoration: none;
+	color: black;
+	margin-left:0.5em;
+}
+
+#submit {
+	font-size: 100%;
+	font-family: Impact;
+	margin-left:6.2em;
+	margin-bottom:1em;
+}
+
+#submit2 {
+	font-size: 100%;
+	font-family: Impact;
+	margin-left: 10em;
+	margin-bottom: 1em;
+}
+
+#back_href2 {
+	font-family: 'Times New Roman';
+	font-size: 90%;
+	text-decoration: none;
+	color: black;
+	margin-left: 0.5em;
+}
+
+#back_href3 {
+	font-family: 'Times New Roman';
+	font-size: 90%;
+	text-decoration: none;
+	color: black;
+	margin-left: 9.3em;
+}
+
+#tindahan_already {
+	font-family: 'Times New Roman';
+	font-size: 90%;
+	text-decoration: none;
+	color: black;
+	margin-left: 5em;
+}

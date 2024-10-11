@@ -1,0 +1,87 @@
+body {
+
+    background-color:lemonchiffon;
+
+}
+
+#photo-item {
+    position: absolute;
+    margin-left: 10em;
+    margin-top:7em;
+}
+
+#image-size {
+    width: 30em;
+    height: 30em;
+}
+
+
+#product_details_position {
+
+    position:absolute;
+    margin-left:43em;
+    margin-top:4.2em;
+
+}
+
+#text-size {
+
+    font-size:200%;
+
+}
+
+#confirm {
+
+    position:absolute;
+    margin-left:51.7em;
+    margin-top:42.8em;
+
+}
+
+#category {
+    position: absolute;
+    margin-left: 51.7em;
+    margin-top: 40em;
+}
+
+#quantity {
+    position: absolute;
+    margin-left: 56.4em;
+    margin-top: 37em;
+}
+
+#quantity_text {
+    position: absolute;
+    margin-left: 43em;
+    margin-top: 30.9em;
+}
+
+#text {
+    font-size: 200%;
+    font-weight:bold;
+    text-align:center;
+    margin-top:10em;
+}
+
+#text2 {
+    font-size: 200%;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 1em;
+}
+
+#salamat {
+
+    margin-left:52em;
+    position:absolute;
+
+}
+
+#back {
+
+    position:absolute;
+    margin-top:15em;
+    margin-left:54.2em;
+    color:black;
+
+}

@@ -1,0 +1,318 @@
+body {
+
+    margin: 0;
+
+}
+
+#MainMenu {
+    background-color: lemonchiffon;
+    padding-top: 4em;
+    padding-bottom: 3em;
+}
+
+#tindahan {
+    color: dodgerblue;
+    font-family: Impact;
+    font-size: 200%;
+    margin-left: 15em;
+}
+
+#PH {
+    color: firebrick;
+    font-family: Impact;
+    font-size: 200%;
+}
+
+#sun {
+
+    position: absolute;
+    width:4em;
+    height:4em;
+    margin-left: 25.7em;
+    margin-top:3.1em;
+
+}
+
+#tag_border {
+
+    position:absolute;
+
+}
+
+#about_us {
+    font-size: 90%;
+    position: absolute;
+    color: black;
+    margin-left: 28.8em;
+    margin-top: 0.5em;
+    text-decoration: none;
+}
+
+#about_us1 {
+    font-size: 90%;
+    position: absolute;
+    color: black;
+    margin-left: 35.2em;
+    margin-top: 0.5em;
+    text-decoration: none;
+}
+
+#slash_border {
+
+    margin-left:25em;
+    color: black;
+    font-size: 120%;
+    position: absolute;
+    margin-top:0.15em;
+
+}
+
+#start_selling {
+    font-size: 90%;
+    position: absolute;
+    color: black;
+    margin-left: 34.3em;
+    margin-top: 0.5em;
+    text-decoration: none;
+}
+
+#slash_border2 {
+    margin-left: 30em;
+    color: black;
+    font-size: 120%;
+    position: absolute;
+    margin-top: 0.15em;
+}
+
+#social_media {
+    font-size: 90%;
+    position: absolute;
+    color: black;
+    margin-left: 41em;
+    margin-top: 0.5em;
+    text-decoration: none;
+}
+
+#fb {
+    position: absolute;
+    width:1.2em;
+    height:1.2em;
+    margin-left: 42.3em;
+    margin-top:0.28em;
+}
+
+#twitter {
+    position: absolute;
+    width: 1.2em;
+    height: 1.2em;
+    margin-left: 43.8em;
+    margin-top: 0.28em;
+}
+
+#search {
+
+    position:absolute;
+    width:50em;
+    height:3em;
+    margin-left:49em;
+    margin-top:4.5em;
+
+}
+
+#search_logo {
+    position: absolute;
+    width: 2.9em;
+    height: 2.9em;
+    margin-left: 82.9em;
+    margin-top: 3.75em;
+}
+
+#Log_In {
+    font-size: 90%;
+    position: absolute;
+    color: black;
+    margin-left: 95.5em;
+    margin-top: 0.5em;
+    text-decoration: none;
+}
+
+#Sign_Up {
+    font-size: 90%;
+    position: absolute;
+    color: black;
+    margin-left: 99.7em;
+    margin-top: 0.5em;
+    text-decoration: none;
+}
+
+#help {
+    font-size: 90%;
+    position: absolute;
+    color: black;
+    margin-left: 91em;
+    margin-top: 0.5em;
+    text-decoration: none;
+}
+
+#hlp_logo {
+    position: absolute;
+    width: 1.2em;
+    height: 1.2em;
+    margin-left: 80.4em;
+    margin-top: 0.28em;
+}
+
+
+#slash_border3 {
+    margin-left: 74.1em;
+    color: black;
+    font-size: 120%;
+    position: absolute;
+    margin-top: 0.15em;
+}
+
+#makabayang_presyo_border {
+    background-color: yellow;
+    position: absolute;
+    margin-top: 33em;
+    margin-left: 25.8em;
+    padding-right: 63.9em;
+    padding-bottom: 26em;
+}
+
+#makabayang_presyo {
+    background-color: dodgerblue;
+    position: absolute;
+    margin-top: 33.9em;
+    margin-left: 26.7em;
+    padding-right: 62em;
+    padding-bottom: 24.1em;
+}
+
+#title1 {
+
+    color:white;
+    font-size: 300%;
+    position: absolute;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 11.6em;
+    margin-left: 14.4em;
+
+}
+
+#title2 {
+    color: white;
+    font-size: 300%;
+    position: absolute;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 11.6em;
+    margin-left: 20em;
+}
+
+#duyan_href {
+    margin-top:39em;
+    position: absolute;
+    margin-left:27.2em;
+}
+
+#bayong_href {
+    margin-top: 39em;
+    position: absolute;
+    margin-left: 43em;
+}
+
+#kwintas_href {
+    margin-top: 39em;
+    position: absolute;
+    margin-left: 57em;
+}
+
+#salakot_href {
+    margin-top: 39em;
+    position: absolute;
+    margin-left: 73.9em;
+}
+
+#UserName {
+    font-size: 90%;
+    position: absolute;
+    color: black;
+    margin-left: 94em;
+    margin-top: 0.5em;
+    text-decoration: none;
+}
+
+#logout {
+    font-size: 90%;
+    position: absolute;
+    color: black;
+    margin-left: 94.2em;
+    margin-top: 2.1em;
+    text-decoration: none;
+    color: firebrick;
+}
+
+#slash_border4 {
+    margin-left: 70em;
+    color: black;
+    font-size: 120%;
+    position: absolute;
+    margin-top: 0.15em;
+}
+
+#tindahan_name {
+    font-size: 90%;
+    position: absolute;
+    color: black;
+    margin-left: 50.3em;
+    margin-top: 0.5em;
+    text-decoration: none;
+}
+
+#photo-item {
+
+    position:absolute;
+    margin-top:53em;
+    margin-left:25.9em;
+
+}
+
+#image-size {
+
+    width:20em;
+    height:20em;
+
+}
+
+#product {
+
+    text-align:center;
+
+}
+
+#text-design {
+
+    color:black;
+
+}
+/* SLIDE SHOW CONTAINER BELOW */
+.slideshow {
+    width: 80em;
+    height: 80em;
+    position: absolute;
+    margin-top: 11em;
+    margin-left: 18em;
+}
+
+.swiper {
+
+    width: 80%;
+    height: fit-content;
+
+}
+
+.swiper-slide img {
+
+    width: 100%;
+
+}

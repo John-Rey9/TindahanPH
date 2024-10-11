@@ -1,0 +1,99 @@
+body {
+
+    background: url(background1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+#Logo {
+
+    position: absolute;
+    margin-top: 27em;
+    margin-left: 33em;
+
+}
+
+#sun {
+
+    position: absolute;
+    width: 54em;
+    height: 54em;
+    background-repeat: no-repeat;
+    margin-top: 3em;
+    margin-left: 18.4em;
+}
+
+
+#logindesign {
+
+    position: absolute;
+    margin-left: 83em;
+    margin-top: 18em;
+    background-color: lightcyan;
+    padding-top: 4em;
+    padding-bottom: 7em;
+    padding-left: 4em;
+    padding-right: 4em;
+    border-radius:20px;
+    
+}
+
+#logintxt {
+
+    font-size: 250%;
+    font-family: Impact;
+
+}
+
+#userNAME {
+
+    font-family: Impact;
+    font-size: 100%;
+
+}
+
+#userPASS {
+
+    font-family: Impact;
+    font-size: 100%;
+
+}
+
+#btn {
+
+    font-family: Impact;
+    font-size: 100%;
+    position: relative;
+    margin-left: 6.5em;
+    margin-top: 3em
+
+}
+
+#signBtn {
+
+    position: absolute;
+    font-family: Impact;
+    font-size: 100%;
+    margin-left: 6.2em;
+
+}
+
+#back_href {
+    font-family: 'Times New Roman';
+    font-size: 90%;
+    position: absolute;
+    margin-top: 50em;
+    margin-left: 101.8em;
+    text-decoration: none;
+    color:black;
+}
+
+#errormessage {
+
+    font-size:80%;
+    position:absolute;
+    margin-left:3.8em;
+    color:red;
+
+}
